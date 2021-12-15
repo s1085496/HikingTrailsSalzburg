@@ -1,0 +1,12 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.045886000000053,47.80237900000003]},"properties":{"ID":1,"NAME":"Start Point 1","ROUTE":"From Salzburg to Schallmoos","LONG":47.802379,"LAT":13.045886}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.035579000000041,47.80541800000003]},"properties":{"ID":2,"NAME":"Start Point 2","ROUTE":"From Mülln to Salzburg","LONG":47.805418,"LAT":13.035579}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.043196000000023,47.79078700000008]},"properties":{"ID":3,"NAME":"Start Point 3","ROUTE":"From Nonntal to Gneis","LONG":47.790787,"LAT":13.043196}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.06059700000003,47.762335000000064]},"properties":{"ID":4,"NAME":"Start Point 4","ROUTE":"From Schloss Hellbrunn to Salzburg Volkskundemuseum","LONG":47.762335,"LAT":13.060597}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.106832000000054,47.80020900000005]},"properties":{"ID":5,"NAME":"Start Point 5","ROUTE":"From Aussicht auf Salzburg to Wanderung zur Gaisbergspitze","LONG":47.800209,"LAT":13.106832}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.062869000000035,47.80765300000007]},"properties":{"ID":6,"NAME":"End Point 1","ROUTE":"From Salzburg to Schallmoos","LONG":47.807653,"LAT":13.062869}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.040158000000076,47.79352600000004]},"properties":{"ID":7,"NAME":"End Point 2","ROUTE":"From Mülln to Salzburg","LONG":47.793526,"LAT":13.040158}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.035175000000038,47.785262000000046]},"properties":{"ID":8,"NAME":"End Point 3","ROUTE":"From Nonntal to Gneis","LONG":47.785262,"LAT":13.035175}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.061051000000077,47.76223800000008]},"properties":{"ID":9,"NAME":"End Point 4","ROUTE":"From Schloss Hellbrunn to Salzburg Volkskundemuseum","LONG":47.762238,"LAT":13.061051}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[13.109348000000068,47.803157000000056]},"properties":{"ID":10,"NAME":"End Point 5","ROUTE":"From Aussicht auf Salzburg to Wanderung zur Gaisbergspitze","LONG":47.803157,"LAT":13.109348}}
+]}
